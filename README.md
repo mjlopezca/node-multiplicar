@@ -1,4 +1,4 @@
 ## multiplicar consola app
 
-ejecuta este comando 
-npm install
+##ejecuta este comando 
+##npm install
